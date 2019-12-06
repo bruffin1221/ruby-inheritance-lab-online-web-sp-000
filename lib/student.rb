@@ -5,7 +5,7 @@ def initialize
 end
 
 def learn
-  @knowledge<<KNOWLEDGE.sample
+  @knowledge<<string
 end
 
 end
